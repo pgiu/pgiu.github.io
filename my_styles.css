@@ -1,0 +1,13 @@
+.gallery_part {
+    background-color: grey;
+    padding: 2.5%;
+}
+
+p.gallery_part{
+    color: whitesmoke;
+}
+
+.my_icon {
+    height: 32px;
+    width: 32px;
+}

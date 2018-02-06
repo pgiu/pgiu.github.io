@@ -2342,7 +2342,8 @@
 		}
 
 		.gallery > * {
-			width: 50%;
+			width: 45%;
+            margin:2.5%;
 		}
 
 		@media screen and (max-width: 980px) {
@@ -2443,12 +2444,11 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2rem 0;
-		padding-left: 1rem;
+		padding-left: 0;
 	}
 
 		ul li {
-			padding-left: 0.5rem;
+			padding-left: 0.0;
 		}
 
 		ul.alt {
@@ -3174,3 +3174,4 @@
 			}
 
 		}
+
